@@ -1,0 +1,67 @@
+h1 {
+ /* background-color:aquamarine; */
+ margin-bottom: 30px;
+ margin: 100px;
+}
+
+#special {
+ background-color:aquamarine;
+ margin-bottom: 30px;
+}
+h1{
+  text-align: center;
+}
+
+.boring{
+  color: grey;
+}
+
+.interesting {
+  text-decoration: underline;
+}
+
+.container{
+  margin: 40px;
+  background: rgba(38,194,129,0.2);
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.greeting{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  /* centers CSS */
+}
+
+.container{
+  margin: 40px
+}
+
+.description{
+  margin-top: 20px;
+}
+
+body{
+  background: url("https://media.istockphoto.com/photos/light-green-defocused-blurred-motion-abstract-background-picture-id1138288758?k=6&m=1138288758&s=612x612&w=0&h=rwNnAXEgmHzxpeb7SY0A2KVMOQhkBaoml1T6HEaW7Fs=");
+  background-attachment: fixed;
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+/* p{
+  border: 2px solid red;
+}
+div{
+  border: 2px solid red;
+} */
